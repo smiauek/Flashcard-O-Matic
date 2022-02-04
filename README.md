@@ -9,3 +9,10 @@ Flashcards are meant as supplementary help for studying. Each contains a questio
 This app is utilizing:
 - React for state management and rendering
 - Bootstrap for styling
+
+## Preview:
+![Home](screenshots/flashcards-home.png)
+![View Deck](screenshots/flashcards-view-deck.png)
+![Study Front](screenshots/flashcards-study-front.png)
+![Study Back](screenshots/flashcards-study-back.png)
+![Create Deck](screenshots/flashcards-create-deck.png)
